@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+  <g id="Enterprise_Platforms_" data-name="Enterprise Platforms " transform="translate(-640 -580)">
+    <rect id="Rectangle_2" data-name="Rectangle 2" width="60" height="60" rx="30" transform="translate(640 580)" fill="#4fd6e5"/>
+    <g id="Group_249" data-name="Group 249" transform="translate(638.686 578)">
+      <rect id="Rectangle_223" data-name="Rectangle 223" width="10.769" height="1.579" transform="translate(16.482 37.879)" fill="#fff"/>
+      <rect id="Rectangle_224" data-name="Rectangle 224" width="10.769" height="1.579" transform="translate(16.482 28.482)" fill="#fff"/>
+      <rect id="Rectangle_225" data-name="Rectangle 225" width="10.769" height="1.579" transform="translate(15.648 19.084)" fill="#fff"/>
+      <path id="Path_737" data-name="Path 737" d="M48.971,27.907H13.1a.783.783,0,0,0-.784.783v6.18a.783.783,0,0,0,.784.783H48.971a.783.783,0,0,0,.783-.783V28.69A.783.783,0,0,0,48.971,27.907Zm-.8,6.167H13.893V29.486H48.176Z" transform="translate(0 -2.509)" fill="#fff"/>
+      <path id="Path_738" data-name="Path 738" d="M55.115,33.388h.3a.783.783,0,0,0,0-1.566h-.3a.783.783,0,0,0,0,1.566Z" transform="translate(-8.854 -3.334)" fill="#fff"/>
+      <path id="Path_739" data-name="Path 739" d="M48.971,16H13.1a.783.783,0,0,0-.784.783v6.18a.783.783,0,0,0,.784.783H48.971a.783.783,0,0,0,.783-.783v-6.18A.783.783,0,0,0,48.971,16Zm-.8,6.167H13.893V17.579H48.176Z" transform="translate(0)" fill="#fff"/>
+      <path id="Path_740" data-name="Path 740" d="M54.058,21.481h.3a.783.783,0,1,0,0-1.566h-.3a.783.783,0,0,0,0,1.566Z" transform="translate(-8.631 -0.825)" fill="#fff"/>
+      <path id="Path_741" data-name="Path 741" d="M48.971,39.814H13.1a.783.783,0,0,0-.784.783v6.18a.783.783,0,0,0,.784.783H30.3V51H24.182v1.579H38V51H31.883V47.56H48.971a.783.783,0,0,0,.783-.783V40.6A.783.783,0,0,0,48.971,39.814Zm-.8,6.167H13.893V41.393H48.176Z" transform="translate(0 -5.018)" fill="#fff"/>
+      <path id="Path_742" data-name="Path 742" d="M55.115,45.295h.3a.783.783,0,0,0,0-1.567h-.3a.783.783,0,0,0,0,1.567Z" transform="translate(-8.854 -5.843)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

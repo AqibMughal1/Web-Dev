@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+  <g id="Advanced_Analytics_" data-name="Advanced Analytics " transform="translate(-320 -580)">
+    <rect id="Rectangle_2" data-name="Rectangle 2" width="60" height="60" rx="30" transform="translate(320 580)" fill="#4fd6e5"/>
+    <g id="Group_2" data-name="Group 2" transform="translate(-5.74 7.998)">
+      <rect id="Rectangle_3" data-name="Rectangle 3" width="2.342" height="9.003" transform="translate(338.501 610.133)" fill="#fff"/>
+      <rect id="Rectangle_4" data-name="Rectangle 4" width="2.342" height="10.789" transform="translate(362.039 608.346)" fill="#fff"/>
+      <rect id="Rectangle_5" data-name="Rectangle 5" width="2.342" height="21.286" transform="translate(373.409 597.85)" fill="#fff"/>
+      <rect id="Rectangle_6" data-name="Rectangle 6" width="2.342" height="17.528" transform="translate(349.25 601.607)" fill="#fff"/>
+      <path id="Path_5" data-name="Path 5" d="M123.24,5a3.231,3.231,0,0,0-2.5,5.3l-6.094,7.218a3.211,3.211,0,0,0-4.31.879l-7.017-3.151a3.215,3.215,0,0,0,.066-.647,3.248,3.248,0,1,0-6.193,1.351l-6.477,5.165a3.254,3.254,0,1,0,.977,1.217l6.477-5.165a3.2,3.2,0,0,0,4.467-.516l7.129,3.2a3.193,3.193,0,0,0-.044.435,3.248,3.248,0,1,0,6.029-1.655l6.238-7.388A3.247,3.247,0,1,0,123.24,5M88.748,25.371a1.686,1.686,0,1,1,1.686-1.686,1.688,1.688,0,0,1-1.686,1.686m11.39-9.083a1.686,1.686,0,1,1,1.686-1.686,1.688,1.688,0,0,1-1.686,1.686m12.832,5.687a1.686,1.686,0,1,1,1.686-1.686,1.688,1.688,0,0,1-1.686,1.686M123.24,9.936a1.686,1.686,0,1,1,1.686-1.686,1.688,1.688,0,0,1-1.686,1.686" transform="translate(250.24 580)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
